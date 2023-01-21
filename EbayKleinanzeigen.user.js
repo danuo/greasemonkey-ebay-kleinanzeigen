@@ -19,7 +19,7 @@
     });
 
     // remove posts
-    const words = ['gesuch', 'sucht', 'tausch', 'untermiete', 'unterver', 'zwischenmiete', 'möbliert', 'studenten'];
+    const words = ['gesuch', 'sucht', 'suche', 'tausch', 'untermiete', 'unterver', 'zwischenmiete', 'möbliert', 'studenten'];
     words.forEach(function(word) {
         // Get all of the posts on the page
         const posts = document.querySelectorAll('.ad-listitem');
