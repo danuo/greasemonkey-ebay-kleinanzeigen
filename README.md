@@ -1,0 +1,2 @@
+# greasemonkey-ebay-kleinanzeigen
+This is a small greasemonkey script for ebay kleinanzeigen. The script allows the user to exclude key words by search results. Imagine you are looking for something (A). When searching for (A), you also get a lot of search results of (B), which you are not interested in. If certain words are common and exclusively in (B) ads, then you can use those to exclude these results. The keywords are case-insensitive and are defined within the script.
